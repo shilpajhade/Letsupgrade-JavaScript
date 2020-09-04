@@ -1,0 +1,9 @@
+let arr=["hydrabad","mumbai","delhi","bangolre","cheenai"];
+
+for(let i=0;i<arr.length;i++)
+{
+    if(arr[i].includes("a"))
+    {
+        console.log(arr[i]);
+    }
+}
