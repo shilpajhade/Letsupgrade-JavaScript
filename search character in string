@@ -1,1 +1,2 @@
-<html>
+let data="helloworld";
+console.log(data[5]);
